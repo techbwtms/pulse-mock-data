@@ -3,6 +3,8 @@
       "name": "Fuel Terminal",
       "id": 1,
       "location": "Kerteh Integrated Petrochemical Complex",
+      "coordinate": [4.588100001152392, 103.43883378077103],
+      "total_assets": 998,
       "latest_alert": {
          "count": {
             "warning": 2,
