@@ -1541,15 +1541,13 @@
                    "title": "Cavitation",
                    "variant": "warning",
                    "subtitle": "Low Flow",
-                   "date": "3/3/2023",
-                   "time": "8:32 AM"
+                   "updated_at": "2023-11-19 13:24:28"
                 },
                 {
                    "title": "Cavitation",
                    "variant": "warning",
                    "subtitle": "Low Flow",
-                   "date": "3/3/2023",
-                   "time": "8:32 AM"
+                   "updated_at": "2023-11-19 13:24:28"
                 }
              ]
           }
