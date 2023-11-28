@@ -1,6 +1,7 @@
 [
    {
       "name": "Fuel Terminal",
+      "id": 1,
       "location": "Kerteh Integrated Petrochemical Complex",
       "latest_alert": {
          "count": {
@@ -10,15 +11,10 @@
          },
          "data": [
             {
-               "name": "Pump-02",
+               "name": "Pump 01",
+               "id": 1,
                "status": "warning",
                "description": "Medium Temperature",
-               "updated_at": "2023-11-19 13:24:34"
-            },
-            {
-               "name": "Pump-03",
-               "status": "danger",
-               "description": "High Temperature",
                "updated_at": "2023-11-19 13:24:34"
             }
          ]
@@ -121,6 +117,11 @@
       "pumps": [
          {
             "name": "Pump 01",
+            "terminal": {
+               "name": "Fuel Terminal",
+               "location": "Kerteh Integrated Petrochemical Complex"
+            },
+            "id": 1,
             "status": "running",
             "descripton": "",
             "type": "Centrifugal Pump",
