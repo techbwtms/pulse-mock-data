@@ -1,3 +1,23 @@
 {
-    "profile_url": "https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/avatars/avatar-2.png"
+    "profile_url": "https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/avatars/avatar-2.png",
+    "indicator_percent": {
+        "low": {
+            "value": 40,
+            "color": "green",
+            "label": "Low"
+        
+        },
+        "medium": {
+            "value": 60,
+            "color": "yellow",
+            "label": "Medium"
+        
+        },
+        "high": {
+            "value": 80,
+            "color": "red",
+            "label": "High"
+        }
+
+    }
 }
