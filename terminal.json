@@ -8,7 +8,7 @@
       "latest_alert": {
          "count": {
             "warning": 2,
-            "danger": 2,
+            "danger": 3,
             "success": 10
          },
          "data": [
@@ -16,7 +16,7 @@
                "name": "Pump 01",
                "id": 1,
                "status": "warning",
-               "description": "Medium Temperature",
+               "description": "High Temperature",
                "updated_at": "2023-11-19 13:24:34"
             }
          ]
