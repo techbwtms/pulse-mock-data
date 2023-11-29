@@ -8,7 +8,7 @@
       "latest_alert": {
          "count": {
             "warning": 2,
-            "danger": 2,
+            "danger": 3,
             "success": 10
          },
          "data": [
