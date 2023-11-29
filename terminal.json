@@ -86,6 +86,7 @@
          },
          "total_volume": {
             "title": "Total Volume",
+            "max_value": 900737,
             "total": 598737,
             "unit": "m³",
             "pump": [
