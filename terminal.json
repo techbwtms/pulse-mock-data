@@ -953,7 +953,7 @@
                   ]
                },
                "speed": {
-                  "name": "Speed",
+                  "name": "RPM",
                   "unit": "rpm",
                  "latest_log": {
                         "updated_at": "2023-11-19 00:00:00",
@@ -2615,7 +2615,7 @@
                   ]
                },
                "speed": {
-                  "name": "Speed",
+                  "name": "RPM",
                   "unit": "rpm",
                  "latest_log": {
                         "updated_at": "2023-11-19 00:00:00",
@@ -4277,7 +4277,7 @@
                   ]
                },
                "speed": {
-                  "name": "Speed",
+                  "name": "RPM",
                   "unit": "rpm",
                  "latest_log": {
                         "updated_at": "2023-11-19 00:00:00",
@@ -5939,7 +5939,7 @@
                   ]
                },
                "speed": {
-                  "name": "Speed",
+                  "name": "RPM",
                   "unit": "rpm",
                  "latest_log": {
                         "updated_at": "2023-11-19 00:00:00",
@@ -7602,7 +7602,7 @@
                   ]
                },
                "speed": {
-                  "name": "Speed",
+                  "name": "RPM",
                   "unit": "rpm",
                  "latest_log": {
                         "updated_at": "2023-11-19 00:00:00",
@@ -9264,7 +9264,7 @@
                   ]
                },
                "speed": {
-                  "name": "Speed",
+                  "name": "RPM",
                   "unit": "rpm",
                  "latest_log": {
                         "updated_at": "2023-11-19 00:00:00",
