@@ -1155,9 +1155,9 @@
                      }
                   ]
                },
-               "efficiency": {
-                  "name": "Efficiency",
-                  "unit": "%",
+               "vibration": {
+                  "name": "Vibration",
+                  "unit": "mm/s",
                   "latest_log": {
                         "updated_at": "2023-11-19 00:00:00",
                         "value": 94
@@ -2614,9 +2614,9 @@
                      }
                   ]
                },
-               "efficiency": {
-                  "name": "Efficiency",
-                  "unit": "%",
+               "vibration": {
+                  "name": "Vibration",
+                  "unit": "mm/s",
                   "latest_log": {
                         "updated_at": "2023-11-19 00:00:00",
                         "value": 94
@@ -4073,9 +4073,9 @@
                      }
                   ]
                },
-               "efficiency": {
-                  "name": "Efficiency",
-                  "unit": "%",
+               "vibration": {
+                  "name": "Vibration",
+                  "unit": "mm/s",
                   "latest_log": {
                         "updated_at": "2023-11-19 00:00:00",
                         "value": 94
@@ -5532,9 +5532,9 @@
                      }
                   ]
                },
-               "efficiency": {
-                  "name": "Efficiency",
-                  "unit": "%",
+               "vibration": {
+                  "name": "Vibration",
+                  "unit": "mm/s",
                   "latest_log": {
                         "updated_at": "2023-11-19 00:00:00",
                         "value": 94
@@ -6991,9 +6991,9 @@
                      }
                   ]
                },
-               "efficiency": {
-                  "name": "Efficiency",
-                  "unit": "%",
+               "vibration": {
+                  "name": "Vibration",
+                  "unit": "mm/s",
                   "latest_log": {
                         "updated_at": "2023-11-19 00:00:00",
                         "value": 94
@@ -8450,9 +8450,9 @@
                      }
                   ]
                },
-               "efficiency": {
-                  "name": "Efficiency",
-                  "unit": "%",
+               "vibration": {
+                  "name": "Vibration",
+                  "unit": "mm/s",
                   "latest_log": {
                         "updated_at": "2023-11-19 00:00:00",
                         "value": 94
