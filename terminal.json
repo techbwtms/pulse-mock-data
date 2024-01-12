@@ -1,6 +1,6 @@
 [
    {
-      "name": "Fuel Terminal",
+      "name": "KIPC, Kerteh Terengganu",
       "id": 1,
       "location": "Kerteh Integrated Petrochemical Complex",
       "coordinate": [4.588100001152392, 103.43883378077103],
@@ -10095,7 +10095,7 @@
    },
    {
       "name": "PSR-2, Malacca",
-      "id": 1,
+      "id": 2,
       "location": "Petronas Melaka Refinery Complex",
       "coordinate": [2.276223, 102.136773],
       "total_assets": 765,
@@ -20189,7 +20189,7 @@
    },
    {
       "name": "PIPC, Pengerang Johor",
-      "id": 1,
+      "id": 3,
       "location": "Pengerang Integrated Petroleum Complex (PIPC)",
       "coordinate": [1.359942, 104.169440],
       "total_assets": 1519,
