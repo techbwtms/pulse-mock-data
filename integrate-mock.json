@@ -1,0 +1,217 @@
+{
+   "levelOne": {
+      "alert": [
+         {
+            "name": "KIPC, Kerteh Terengganu",
+            "id": 1,
+            "location": "Kerteh Integrated Petrochemical Complex",
+            "coordinate": [
+               4.588100001152392,
+               103.43883378077103
+            ],
+            "total_assets": 998,
+            "latest_alert": {
+               "count": {
+                  "warning": 2,
+                  "danger": 3,
+                  "success": 10
+               },
+               "data": [
+                  {
+                     "name": "Pump 01",
+                     "id": 1,
+                     "status": "warning",
+                     "description": "High Temperature",
+                     "updated_at": "2023-11-19 13:24:34"
+                  }
+               ]
+            }
+         },
+         {
+            "name": "PSR-2, Malacca",
+            "id": 2,
+            "location": "Petronas Melaka Refinery Complex",
+            "coordinate": [
+               2.276223,
+               102.136773
+            ],
+            "total_assets": 765,
+            "latest_alert": {
+               "count": {
+                  "warning": 2,
+                  "danger": 3,
+                  "success": 10
+               },
+               "data": [
+                  {
+                     "name": "Pump 01",
+                     "id": 1,
+                     "status": "warning",
+                     "description": "High Temperature",
+                     "updated_at": "2023-11-19 13:24:34"
+                  }
+               ]
+            }
+         },
+         {
+            "name": "PIPC, Pengerang Johor",
+            "id": 3,
+            "location": "Pengerang Integrated Petroleum Complex (PIPC)",
+            "coordinate": [
+               1.359942,
+               104.169440
+            ],
+            "total_assets": 1519,
+            "latest_alert": {
+               "count": {
+                  "warning": 2,
+                  "danger": 3,
+                  "success": 10
+               },
+               "data": [
+                  {
+                     "name": "Pump 01",
+                     "id": 1,
+                     "status": "warning",
+                     "description": "High Temperature",
+                     "updated_at": "2023-11-19 13:24:34"
+                  }
+               ]
+            }
+         }
+      ]
+   },
+   "levelTwo": {
+      "newAlert": {
+         "title": "New Alerts Detected",
+         "message": "A total of 5 new alerts require immediate attention and resolution."
+      },
+      "stationStatical": {
+         "current_usage": {
+            "title": "Current Usage",
+            "total": 98737,
+            "unit": "kwh",
+            "pump": [
+               {
+                  "name": "Pump 01",
+                  "percent": 16
+               },
+               {
+                  "name": "Pump 02",
+                  "percent": 5
+               },
+               {
+                  "name": "Pump 03",
+                  "percent": 45
+               },
+               {
+                  "name": "Pump 04",
+                  "percent": 34
+               },
+               {
+                  "name": "Pump 05",
+                  "percent": 34
+               },
+               {
+                  "name": "Pump 06",
+                  "percent": 34
+               }
+            ]
+         },
+         "total_runtime": {
+            "title": "Total Runtime",
+            "total": 56636,
+            "unit": "hrs",
+            "pump": [
+               {
+                  "name": "Pump 01",
+                  "percent": 16
+               },
+               {
+                  "name": "Pump 02",
+                  "percent": 5
+               },
+               {
+                  "name": "Pump 03",
+                  "percent": 45
+               },
+               {
+                  "name": "Pump 04",
+                  "percent": 34
+               },
+               {
+                  "name": "Pump 05",
+                  "percent": 34
+               },
+               {
+                  "name": "Pump 06",
+                  "percent": 34
+               }
+            ]
+         },
+         "total_volume": {
+            "title": "Total Volume",
+            "max_volume": 900737,
+            "total": 598737,
+            "unit": "m³",
+            "pump": [
+               {
+                  "name": "Pump 01",
+                  "percent": 16
+               },
+               {
+                  "name": "Pump 02",
+                  "percent": 5
+               },
+               {
+                  "name": "Pump 03",
+                  "percent": 45
+               },
+               {
+                  "name": "Pump 04",
+                  "percent": 34
+               },
+               {
+                  "name": "Pump 05",
+                  "percent": 34
+               },
+               {
+                  "name": "Pump 06",
+                  "percent": 34
+               }
+            ]
+         }
+      }
+   },
+   "levelThree": {
+      "pumpDescription": {
+         "status": "running",
+         "descripton": "",
+         "type": "Centrifugal Pump",
+         "brand": "KSB",
+         "spec": "KSB",
+         "run_time": {
+            "days": 1178,
+            "hours": 18
+         },
+         "material": "KSB",
+         "count": {
+            "latest_alert": 4
+         }
+      },
+      "alertHistory": [
+         {
+            "title": "Cavitation",
+            "variant": "warning",
+            "subtitle": "Low Flow",
+            "updated_at": "2023-11-19 13:24:34"
+         },
+         {
+            "title": "Cavitation",
+            "variant": "warning",
+            "subtitle": "Low Flow",
+            "updated_at": "2023-11-19 13:24:34"
+         }
+      ]
+   }
+}
