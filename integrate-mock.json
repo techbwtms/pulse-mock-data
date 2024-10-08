@@ -12,9 +12,9 @@
             "total_assets": 998,
             "latest_alert": {
                "count": {
-                  "warning": 2,
-                  "danger": 3,
-                  "success": 10
+                  "warning": 1,
+                  "danger": 1,
+                  "success": 3
                },
                "data": [
                   {
@@ -38,9 +38,9 @@
             "total_assets": 765,
             "latest_alert": {
                "count": {
-                  "warning": 2,
-                  "danger": 3,
-                  "success": 10
+                  "warning": 0,
+                  "danger": 0,
+                  "success": 8
                },
                "data": [
                   {
@@ -64,9 +64,9 @@
             "total_assets": 1519,
             "latest_alert": {
                "count": {
-                  "warning": 2,
-                  "danger": 3,
-                  "success": 10
+                  "warning": 0,
+                  "danger": 1,
+                  "success": 7
                },
                "data": [
                   {
