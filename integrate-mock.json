@@ -2,9 +2,9 @@
    "levelOne": {
       "alert": [
          {
-            "name": "KIPC, Kerteh Terengganu",
+            "name": "Room B224",
             "id": 1,
-            "location": "Kerteh Integrated Petrochemical Complex",
+            "location": "Petronas Research Sdn Bhd",
             "coordinate": [
                4.588100001152392,
                103.43883378077103
@@ -18,7 +18,7 @@
                },
                "data": [
                   {
-                     "name": "Pump 01",
+                     "name": "Gas Chromatoghrapy (GC)",
                      "id": 1,
                      "status": "warning",
                      "description": "High Temperature",
@@ -28,9 +28,9 @@
             }
          },
          {
-            "name": "PSR-2, Malacca",
+            "name": "Room B316",
             "id": 2,
-            "location": "Melaka Energy Park",
+            "location": "Petronas Research Sdn Bhd",
             "coordinate": [
                2.276223,
                102.136773
@@ -44,7 +44,7 @@
                },
                "data": [
                   {
-                     "name": "Pump 01",
+                     "name": "High Pressure Liquid Chomatoghrapy (HPLC)",
                      "id": 1,
                      "status": "warning",
                      "description": "High Temperature",
@@ -54,9 +54,35 @@
             }
          },
          {
-            "name": "PIPC, Pengerang Johor",
+            "name": "Room B318",
             "id": 3,
-            "location": "Pengerang Integrated Petroleum Complex (PIPC)",
+            "location": "Petronas Research Sdn Bhd",
+            "coordinate": [
+               2.276223,
+               102.136773
+            ],
+            "total_assets": 765,
+            "latest_alert": {
+               "count": {
+                  "warning": 0,
+                  "danger": 0,
+                  "success": 8
+               },
+               "data": [
+                  {
+                     "name": "Furnace",
+                     "id": 4,
+                     "status": "warning",
+                     "description": "High Temperature",
+                     "updated_at": "2023-11-19 13:24:34"
+                  }
+               ]
+            }
+         },
+         {
+            "name": "Oven",
+            "id": 3,
+            "location": "Petronas Research Sdn Bhd",
             "coordinate": [
                1.359942,
                104.169440
